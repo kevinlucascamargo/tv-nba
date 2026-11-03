@@ -13,5 +13,6 @@
     "MediaFastForward",
     "MediaRewind",
     "MediaStop"
-  ]
+  ],
+  "evaluateScriptOnDocumentStart": true
 }

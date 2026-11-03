@@ -24,5 +24,4 @@ git push -u origin main
 3. Digite `gh/kevinlucascamargo/tv-nba` e confirme.
 4. O módulo aparece na lista do TizenBrew: OK abre o site.
 
-Mudou o `navegacao_tv.js`? Faça `git commit` e `git push`; o jsDelivr (de onde o TizenBrew baixa) pode levar
-algumas horas para pegar a versão nova.
+Mudou o `navegacao_tv.js`? Rode o criar_app_tv.py de novo com --publicar: ele envia e limpa o cache do jsDelivr.
