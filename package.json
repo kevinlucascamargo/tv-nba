@@ -1,0 +1,17 @@
+{
+  "name": "tv-nba",
+  "version": "1.0.0",
+  "description": "NBA na TV com navegação pelo controle remoto",
+  "packageType": "mods",
+  "appName": "NBA",
+  "websiteURL": "https://topstreamer.site/nba/lakers",
+  "main": "navegacao_tv.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaStop"
+  ]
+}
